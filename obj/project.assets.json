@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\source\\repos\\BMI_Calc\\BMI_Calc\\BMI_Calc.csproj",
+      "projectUniqueName": "C:\\Users\\andre\\source\\repos\\AndrewMurray1507\\BMI_Calc_CMPG323\\BMI_Calc\\BMI_Calc.csproj",
       "projectName": "BMI_Calc",
-      "projectPath": "C:\\Users\\andre\\source\\repos\\BMI_Calc\\BMI_Calc\\BMI_Calc.csproj",
+      "projectPath": "C:\\Users\\andre\\source\\repos\\AndrewMurray1507\\BMI_Calc_CMPG323\\BMI_Calc\\BMI_Calc.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\source\\repos\\BMI_Calc\\BMI_Calc\\obj\\",
+      "outputPath": "C:\\Users\\andre\\source\\repos\\AndrewMurray1507\\BMI_Calc_CMPG323\\BMI_Calc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
