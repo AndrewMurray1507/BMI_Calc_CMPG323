@@ -1,3 +1,4 @@
-# BMI_Calc_CMPG323
+Development
+
 This program calculates BMI 
 Uses metric units
